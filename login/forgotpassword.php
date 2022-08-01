@@ -87,7 +87,7 @@
 								<!-- Button -->
 							<div class="mb-3 d-grid">
 								<button type="submit" class="btn btn-primary" name="resetpassword_btn">
-									Send Resest Link
+									Send Reset Link
 								</button>
 							</div>
 							<span>Return to <a href="signin.php">Sign in</a></span>
